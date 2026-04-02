@@ -19,7 +19,7 @@ What is SSO ID?
 ---------------
 **Full Form:** Single Sign-On Identification (SSO)
 
-An SSO ID is a unique digital identity that provides access to multiple applications using one set of login credentials. Once logged in, you can switch between connected services without logging in again.
+An 'SSO ID <https://ssoidrajasthan.app>' is a unique digital identity that provides access to multiple applications using one set of login credentials. Once logged in, you can switch between connected services without logging in again.
 
 How SSO Works
 -------------
