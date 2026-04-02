@@ -13,7 +13,7 @@ SSO ID - Login, Registration - Rajasthan SSO Portal Guide
 
 Introduction to SSO ID Login, Registration
 ------------------------------------------
-Managing multiple usernames and passwords can be frustrating. SSO ID (Single Sign-On Identification) solves this problem by allowing users to log in once and access multiple online services seamlessly. In India, `SSO ID <https://ssoidrajasthan.app>`_ is especially popular in government portals like the Rajasthan SSO platform, where citizens can use a single login for dozens of state services.
+Managing multiple usernames and passwords can be frustrating. SSO ID (Single Sign-On Identification) solves this problem by allowing users to log in once and access multiple online services seamlessly. In India,                  SSO ID is especially popular in government portals like the Rajasthan SSO platform, where citizens can use a single login for dozens of state services.
 
 What is SSO ID?
 ---------------
