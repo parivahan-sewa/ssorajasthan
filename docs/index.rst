@@ -13,13 +13,13 @@ SSO ID - Login, Registration - Rajasthan SSO Portal Guide
 
 Introduction to SSO ID Login, Registration
 ------------------------------------------
-Managing multiple usernames and passwords can be frustrating. `SSO ID <https://ssoidrajasthan.app>`_ (Single Sign-On Identification) solves this problem by allowing users to log in once and access multiple online services seamlessly. In India, `SSO ID <https://ssoidrajasthan.app>`_ is especially popular in government portals like the Rajasthan SSO platform, where citizens can use a single login for dozens of state services.
+Managing multiple usernames and passwords can be frustrating. SSO ID (Single Sign-On Identification) solves this problem by allowing users to log in once and access multiple online services seamlessly. In India, `SSO ID <https://ssoidrajasthan.app>`_ is especially popular in government portals like the Rajasthan SSO platform, where citizens can use a single login for dozens of state services.
 
 What is SSO ID?
 ---------------
 **Full Form:** Single Sign-On Identification (SSO)
 
-An `SSO ID <https://ssoidrajasthan.app>`_ is a unique digital identity that provides access to multiple applications using one set of login credentials. Once logged in, you can switch between connected services without logging in again.
+An SSO ID is a unique digital identity that provides access to multiple applications using one set of login credentials. Once logged in, you can switch between connected services without logging in again.
 
 How SSO Works
 -------------
@@ -71,7 +71,7 @@ SSO is secure when implemented with:
 Frequently Asked Questions (FAQ)
 --------------------------------
 **Q1: What is the full form of SSO ID?**
-A: `SSO ID <https://ssoidrajasthan.app>`_ stands for Single Sign-On Identification.
+A: SSO ID  stands for Single Sign-On Identification.
 
 **Q2: How can I register for an SSO ID?**
 A: Visit the Rajasthan SSO website, click “Register,” select your category, verify using Aadhaar or Jan Aadhaar, and set your password.
@@ -81,7 +81,7 @@ A: You can access e-Mitra, RTI, job portals, pension schemes, bill payments, and
 
 Conclusion
 ----------
-The `SSO ID <https://ssoidrajasthan.app>`_ system simplifies digital access by providing a secure, centralized login method. Whether you are a citizen, a business, or a government employee, `SSO ID <https://ssoidrajasthan.app>`_ saves time, improves security, and enhances convenience.
+The SSO ID  system simplifies digital access by providing a secure, centralized login method. Whether you are a citizen, a business, or a government employee, SSO ID saves time, improves security, and enhances convenience.
 
 .. raw:: html
 
